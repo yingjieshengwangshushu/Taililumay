@@ -1,0 +1,9 @@
+$ cd Code
+$ mkdir CV && cd CV
+$ git init
+$ git config --global user.name "yingjieshengwangshushu"
+$ git config --global user.email "405425316182@email.ncu.edu.cn"
+wget http://labfile.oss.aliyuncs.com/courses/624/cv-template.zip
+unzip cv-template
+mv cv-template/*.
+rm -rf cv-template*__MACOSX*
